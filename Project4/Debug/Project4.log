@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+C:\Users\zayat\source\repos\тервер лаба 1\Project4\MyForm.h(632,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\zayat\source\repos\тервер лаба 1\Project4\MyForm.h(708,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\zayat\source\repos\тервер лаба 1\Project4\MyForm.h(725,29): warning C4244: аргумент: преобразование "double" в "const unsigned int", возможна потеря данных
+C:\Users\zayat\source\repos\тервер лаба 1\Project4\MyForm.h(737,8): warning C4101: g: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project4.vcxproj -> C:\Users\zayat\source\repos\тервер лаба 1\Debug\Project4.exe

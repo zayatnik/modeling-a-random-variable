@@ -1,0 +1,10 @@
+C:\Users\zayat\source\repos\Project4\Project4\Debug\Project4.MyForm.resources
+C:\Users\zayat\source\repos\Project4\Project4\Debug\Project4.vcxproj.GenerateResource.cache
+C:\Users\zayat\source\repos\Project4\Project4\Debug\Project4.vcxprojAssemblyReference.cache
+C:\Users\zayat\source\repos\Project4 — копия\Project4\Debug\Project4.vcxprojAssemblyReference.cache
+C:\Users\zayat\source\repos\Project4 — копия\Project4\Debug\Project4.MyForm.resources
+C:\Users\zayat\source\repos\Project4 — копия\Project4\Debug\Project4.vcxproj.GenerateResource.cache
+C:\Users\zayat\source\repos\тервер лаба 1\Project4\Debug\Project4.vcxprojAssemblyReference.cache
+C:\Users\zayat\source\repos\тервер лаба 1\Project4\Debug\Project4.MyForm.resources
+C:\Users\zayat\source\repos\тервер лаба 1\Project4\Debug\Project4.vcxproj.GenerateResource.cache
+C:\Users\zayat\source\repos\тервер лаба 1\Project4\Debug\Project4.vcxproj.CopyComplete
